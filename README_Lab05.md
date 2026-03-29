@@ -212,6 +212,3 @@ Yachay Tech University
 
 ---
 
-## License
-
-This repository was created for academic purposes.
